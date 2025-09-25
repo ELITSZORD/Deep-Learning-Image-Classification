@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Project Description](#Project Description)
+- [Project Description](#Project_Description)
 - [Project License](#LICENSE)
 
 <a name="Project Description"/>
