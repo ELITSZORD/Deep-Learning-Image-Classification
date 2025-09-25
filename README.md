@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Project Description](readme.md#Project Description)
+- [Project Description](readme.md # Project Description)
 - [Project License](#LICENSE)
 
 # Project Description
